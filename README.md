@@ -2,6 +2,13 @@
 
 A customized bottom dialog that can be used for notifications etc.
 
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://github.com/Dammyololade/custom_bottom_dialog/blob/master/image.gif">
+    <img src="https://github.com/Dammyololade/custom_bottom_dialog/blob/master/image.gif" width="200"/></a>
+</td>
+</tr></table></div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
